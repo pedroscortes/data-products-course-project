@@ -1,0 +1,25 @@
+---
+title: "Data Products Presentation"
+author: "Pedro Cortes dos Santos"
+date: "23/02/2022"
+output: html_document
+---
+
+## Developing Data Products Course Project
+
+This peer assessed assignment has two parts. First, you will create a Shiny application and deploy it on Rstudio's servers. Second, you will use Slidify or Rstudio Presenter to prepare a reproducible pitch presentation about your application.
+
+Shiny Application:
+https://pedrocortes.shinyapps.io/data-products/
+
+
+Github Link:
+https://github.com/pedroscortes/data-products-course-project
+
+#Data
+
+The data used for the Shiny Application is mtcars dataset
+
+```{r, echo = TRUE}
+head(mtcars)
+```
